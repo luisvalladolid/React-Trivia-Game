@@ -1,9 +1,8 @@
-.App {
-  margin: 0 auto;
-  padding: 2.3em 3em 2em;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  border: 2px dashed #888888;
-  border-radius: 30px;
+.app {
+  box-shadow: 3px 3px 2px black;
+  background-color: #817979;
+  padding: 10px;
+}
+.next-btn {
+  margin-top: 10px;
 }
